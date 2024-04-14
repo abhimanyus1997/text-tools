@@ -9,7 +9,7 @@ import logging
 # Configure logging for the project
 logging.basicConfig(level=logging.INFO, format="[%(asctime)s - %(name)s]: %(message)s:")
 
-project_name = "text-tools"
+project_name = "textTools"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
