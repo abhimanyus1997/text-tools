@@ -2,3 +2,7 @@ src/text_tools.egg-info/dependency_links.txt
 src/text_tools.egg-info/PKG-INFO
 src/text_tools.egg-info/SOURCES.txt
 src/text_tools.egg-info/top_level.txt
+src/textTools/__pycache__/__init__.cpython-311.pyc
+__pycache__/*
+*/__pycache__
+src/textTools/logging/__pycache__/__init__.cpython-311.pyc
