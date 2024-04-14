@@ -19,5 +19,7 @@ ensure
 fastapi
 uvicorn
 Jinja2
+ipykernel
+ipywidgets
 
 -e .
